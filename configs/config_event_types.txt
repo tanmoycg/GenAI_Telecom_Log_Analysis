@@ -1,0 +1,12 @@
+UE Registration Request received with IMSI: {imsi}, IP: {ip}, PLMN: {plmn}
+Session Establishment started for IMSI: {imsi}, APN: {apn}, QOS: {qos}
+Data Flow initiated for IMSI: {imsi}, IP: {ip}, Traffic Type: {traffic}
+UE Deregistration Request received for IMSI: {imsi}, Cause: {cause}
+Network Slice Selection triggered for IMSI: {imsi}, Requested Slice: {slice}, Response: {response}
+Authentication Failure for IMSI: {imsi}, Reason: {auth_fail_reason}
+Handover triggered from Cell ID: {cell_id_src} to Cell ID: {cell_id_dest} for IMSI: {imsi}
+Service Request Timeout for IMSI: {imsi}, Retries: {retries}, Last Attempt: {timestamp}
+QoS Policy update applied for IMSI: {imsi}, New QoS: {qos}, Latency: {latency}ms
+Session Release for IMSI: {imsi}, Cause: {cause}, Duration: {duration}s
+SCTP Link Failure detected at {timestamp}, Affecting AMF: {amf_id}, Recovery: {recovery_action}
+UPF overload detected, Dropping packets for IMSI: {imsi}, Action: {action_taken}
