@@ -18,12 +18,15 @@ python main_genAI_telco_log.py
 
 Architecture (Mermaid Diagram)
 
+```mermaid
 flowchart TD
     A[Raw Telecom Logs] --> B[Log Parser]
-    B --> C[Zero-Shot Classifier<br>(BART-MNLI)]
-    B --> D[Summarizer<br>(BART-CNN)]
+    B --> C[Zero-Shot Classifier (BART-MNLI)]
+    B --> D[Summarizer (BART-CNN)]
     C --> E[Output: Categories]
     D --> E[Output: Summary]
+```
+
 
 Requirements
 
