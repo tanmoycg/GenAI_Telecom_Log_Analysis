@@ -15,7 +15,7 @@ A baseline project to analyze telecom (5G) logs using AI and Generative AI.
 
 # Run main script
 python main_genAI_telco_log.py
-
+```
 Architecture (Mermaid Diagram)
 
 ```mermaid
