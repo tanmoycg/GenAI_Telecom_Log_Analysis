@@ -1,100 +1,100 @@
-[2025-02-14 13:44:00] [SMF] Network Slice Selection triggered for IMSI: 310176463475, Requested Slice: URLLC, Response: Failure
-[2025-02-14 13:44:00] [SMF] Session Establishment started for IMSI: 310179456983, APN: internet, QOS: Low
-[2025-02-14 13:44:00] [UPF] Session Release for IMSI: 310177952186, Cause: Network Congestion, Duration: 120s
-[2025-02-14 13:44:00] [SMF] Service Request Timeout for IMSI: 310174898927, Retries: 1, Last Attempt: 2025-02-14 13:44:00
-[2025-02-14 13:44:00] [AUSF] Handover triggered from Cell ID: 1001 to Cell ID: 1001 for IMSI: 310173223301
-[2025-02-14 13:44:00] [AMF] Data Flow initiated for IMSI: 310176897861, IP: 192.168.45.228, Traffic Type: VoLTE
-[2025-02-14 13:44:00] [UPF] Session Release for IMSI: 310177035489, Cause: Normal Release, Duration: 120s
-[2025-02-14 13:44:00] [NSSF] Authentication Failure for IMSI: 310171506554, Reason: Network Timeout
-[2025-02-14 13:44:00] [PCF] Service Request Timeout for IMSI: 310179608204, Retries: 1, Last Attempt: 2025-02-14 13:44:00
-[2025-02-14 13:44:00] [AUSF] Service Request Timeout for IMSI: 310172385824, Retries: 3, Last Attempt: 2025-02-14 13:44:00
-[2025-02-14 13:44:00] [AUSF] Service Request Timeout for IMSI: 310173233203, Retries: 3, Last Attempt: 2025-02-14 13:44:00
-[2025-02-14 13:44:00] [UDM] Session Establishment started for IMSI: 310175418912, APN: ims, QOS: Low
-[2025-02-14 13:44:00] [UDM] Handover triggered from Cell ID: 1004 to Cell ID: 1001 for IMSI: 310176346488
-[2025-02-14 13:44:00] [PCF] UE Deregistration Request received for IMSI: 310173901559, Cause: UE Power Off
-[2025-02-14 13:44:00] [UDM] UPF overload detected, Dropping packets for IMSI: 310174895757, Action: Rate Limit Applied
-[2025-02-14 13:44:00] [UDM] QoS Policy update applied for IMSI: 310179958899, New QoS: Low, Latency: 50ms
-[2025-02-14 13:44:00] [SMF] Handover triggered from Cell ID: 1001 to Cell ID: 1004 for IMSI: 310171635253
-[2025-02-14 13:44:00] [SMF] Data Flow initiated for IMSI: 310172947235, IP: 192.168.155.98, Traffic Type: Data
-[2025-02-14 13:44:00] [SMF] Data Flow initiated for IMSI: 310176683616, IP: 192.168.110.214, Traffic Type: Streaming
-[2025-02-14 13:44:00] [AUSF] QoS Policy update applied for IMSI: 310178011405, New QoS: High, Latency: 100ms
-[2025-02-14 13:44:00] [SMF] Authentication Failure for IMSI: 310175289894, Reason: Network Timeout
-[2025-02-14 13:44:00] [AUSF] Authentication Failure for IMSI: 310178961509, Reason: Network Timeout
-[2025-02-14 13:44:00] [UDM] Handover triggered from Cell ID: 1003 to Cell ID: 1003 for IMSI: 310171847654
-[2025-02-14 13:44:00] [NSSF] Authentication Failure for IMSI: 310179639944, Reason: SIM Expired
-[2025-02-14 13:44:00] [SMF] Session Establishment started for IMSI: 310177742202, APN: enterprise, QOS: High
-[2025-02-14 13:44:00] [AUSF] Data Flow initiated for IMSI: 310174179801, IP: 192.168.128.106, Traffic Type: VoLTE
-[2025-02-14 13:44:00] [PCF] Authentication Failure for IMSI: 310171607708, Reason: Network Timeout
-[2025-02-14 13:44:00] [PCF] Service Request Timeout for IMSI: 310173501134, Retries: 1, Last Attempt: 2025-02-14 13:44:00
-[2025-02-14 13:44:00] [UPF] Network Slice Selection triggered for IMSI: 310171453553, Requested Slice: mMTC, Response: Success
-[2025-02-14 13:44:00] [PCF] Service Request Timeout for IMSI: 310176106581, Retries: 2, Last Attempt: 2025-02-14 13:44:00
-[2025-02-14 13:44:00] [UPF] QoS Policy update applied for IMSI: 310175418045, New QoS: High, Latency: 20ms
-[2025-02-14 13:44:00] [NSSF] Service Request Timeout for IMSI: 310176663033, Retries: 1, Last Attempt: 2025-02-14 13:44:00
-[2025-02-14 13:44:00] [NSSF] UE Registration Request received with IMSI: 310174970548, IP: 192.168.83.255, PLMN: 404-45
-[2025-02-14 13:44:00] [AUSF] Session Establishment started for IMSI: 310171093109, APN: enterprise, QOS: Medium
-[2025-02-14 13:44:00] [PCF] UPF overload detected, Dropping packets for IMSI: 310171505056, Action: Traffic Re-route
-[2025-02-14 13:44:00] [UPF] Handover triggered from Cell ID: 1003 to Cell ID: 1003 for IMSI: 310176116235
-[2025-02-14 13:44:00] [NSSF] Session Establishment started for IMSI: 310179567230, APN: internet, QOS: Medium
-[2025-02-14 13:44:00] [SMF] Handover triggered from Cell ID: 1004 to Cell ID: 1003 for IMSI: 310179696379
-[2025-02-14 13:44:00] [AMF] Network Slice Selection triggered for IMSI: 310173331339, Requested Slice: URLLC, Response: Success
-[2025-02-14 13:44:00] [AUSF] Session Establishment started for IMSI: 310174335829, APN: internet, QOS: Low
-[2025-02-14 13:44:00] [UPF] SCTP Link Failure detected at 2025-02-14 13:44:00, Affecting AMF: AMF-181, Recovery: Restart AMF
-[2025-02-14 13:44:00] [UDM] Network Slice Selection triggered for IMSI: 310179502072, Requested Slice: URLLC, Response: Failure
-[2025-02-14 13:44:00] [UDM] Handover triggered from Cell ID: 1002 to Cell ID: 1001 for IMSI: 310179020308
-[2025-02-14 13:44:00] [AMF] Session Release for IMSI: 310174298918, Cause: Network Congestion, Duration: 300s
-[2025-02-14 13:44:00] [NSSF] SCTP Link Failure detected at 2025-02-14 13:44:00, Affecting AMF: AMF-754, Recovery: Re-route Traffic
-[2025-02-14 13:44:00] [UDM] QoS Policy update applied for IMSI: 310175189001, New QoS: High, Latency: 20ms
-[2025-02-14 13:44:00] [SMF] UPF overload detected, Dropping packets for IMSI: 310178023369, Action: Traffic Re-route
-[2025-02-14 13:44:00] [SMF] Authentication Failure for IMSI: 310172536687, Reason: Wrong Credentials
-[2025-02-14 13:44:00] [PCF] Service Request Timeout for IMSI: 310177724944, Retries: 2, Last Attempt: 2025-02-14 13:44:00
-[2025-02-14 13:44:00] [AMF] Session Establishment started for IMSI: 310172994174, APN: ims, QOS: High
-[2025-02-14 13:44:00] [UPF] UE Registration Request received with IMSI: 310172573298, IP: 192.168.88.69, PLMN: 311-480
-[2025-02-14 13:44:00] [UDM] Network Slice Selection triggered for IMSI: 310178385627, Requested Slice: eMBB, Response: Failure
-[2025-02-14 13:44:00] [NSSF] Authentication Failure for IMSI: 310171157044, Reason: Wrong Credentials
-[2025-02-14 13:44:00] [AMF] UPF overload detected, Dropping packets for IMSI: 310174339480, Action: Traffic Re-route
-[2025-02-14 13:44:00] [SMF] Service Request Timeout for IMSI: 310174438368, Retries: 2, Last Attempt: 2025-02-14 13:44:00
-[2025-02-14 13:44:00] [NSSF] SCTP Link Failure detected at 2025-02-14 13:44:00, Affecting AMF: AMF-716, Recovery: Alert NOC
-[2025-02-14 13:44:00] [NSSF] QoS Policy update applied for IMSI: 310179880145, New QoS: Low, Latency: 10ms
-[2025-02-14 13:44:00] [AUSF] QoS Policy update applied for IMSI: 310179269083, New QoS: Low, Latency: 10ms
-[2025-02-14 13:44:00] [AUSF] Authentication Failure for IMSI: 310178981321, Reason: Wrong Credentials
-[2025-02-14 13:44:00] [NSSF] Session Release for IMSI: 310171410422, Cause: UE Power Off, Duration: 60s
-[2025-02-14 13:44:00] [SMF] SCTP Link Failure detected at 2025-02-14 13:44:00, Affecting AMF: AMF-116, Recovery: Alert NOC
-[2025-02-14 13:44:00] [UDM] Service Request Timeout for IMSI: 310179911502, Retries: 3, Last Attempt: 2025-02-14 13:44:00
-[2025-02-14 13:44:00] [NSSF] UPF overload detected, Dropping packets for IMSI: 310174772412, Action: Traffic Re-route
-[2025-02-14 13:44:00] [AUSF] Session Establishment started for IMSI: 310176958429, APN: enterprise, QOS: Medium
-[2025-02-14 13:44:00] [PCF] QoS Policy update applied for IMSI: 310172815768, New QoS: Low, Latency: 10ms
-[2025-02-14 13:44:00] [UPF] UE Deregistration Request received for IMSI: 310178063659, Cause: Normal Release
-[2025-02-14 13:44:00] [AUSF] UE Deregistration Request received for IMSI: 310172280358, Cause: Normal Release
-[2025-02-14 13:44:00] [AUSF] UPF overload detected, Dropping packets for IMSI: 310179883440, Action: Temporary Block
-[2025-02-14 13:44:00] [AUSF] UE Registration Request received with IMSI: 310171882928, IP: 192.168.197.68, PLMN: 311-480
-[2025-02-14 13:44:00] [AUSF] Handover triggered from Cell ID: 1004 to Cell ID: 1001 for IMSI: 310171819287
-[2025-02-14 13:44:00] [UPF] Session Establishment started for IMSI: 310179078848, APN: ims, QOS: Low
-[2025-02-14 13:44:00] [PCF] Network Slice Selection triggered for IMSI: 310175214630, Requested Slice: eMBB, Response: Success
-[2025-02-14 13:44:00] [UDM] Service Request Timeout for IMSI: 310172664713, Retries: 3, Last Attempt: 2025-02-14 13:44:00
-[2025-02-14 13:44:00] [NSSF] UE Deregistration Request received for IMSI: 310177605350, Cause: UE Power Off
-[2025-02-14 13:44:00] [AMF] UPF overload detected, Dropping packets for IMSI: 310173831837, Action: Temporary Block
-[2025-02-14 13:44:00] [AUSF] Data Flow initiated for IMSI: 310177555113, IP: 192.168.128.168, Traffic Type: Data
-[2025-02-14 13:44:00] [UPF] UE Deregistration Request received for IMSI: 310171254589, Cause: Network Congestion
-[2025-02-14 13:44:00] [PCF] Data Flow initiated for IMSI: 310175811079, IP: 192.168.213.124, Traffic Type: VoLTE
-[2025-02-14 13:44:00] [PCF] Network Slice Selection triggered for IMSI: 310179281084, Requested Slice: eMBB, Response: Success
-[2025-02-14 13:44:00] [AUSF] UPF overload detected, Dropping packets for IMSI: 310171644263, Action: Rate Limit Applied
-[2025-02-14 13:44:00] [AMF] Handover triggered from Cell ID: 1003 to Cell ID: 1003 for IMSI: 310174272451
-[2025-02-14 13:44:00] [AMF] UE Deregistration Request received for IMSI: 310178724987, Cause: UE Power Off
-[2025-02-14 13:44:00] [NSSF] QoS Policy update applied for IMSI: 310171209326, New QoS: Low, Latency: 50ms
-[2025-02-14 13:44:00] [AUSF] Service Request Timeout for IMSI: 310172870491, Retries: 1, Last Attempt: 2025-02-14 13:44:00
-[2025-02-14 13:44:00] [AUSF] UPF overload detected, Dropping packets for IMSI: 310179089563, Action: Traffic Re-route
-[2025-02-14 13:44:00] [AUSF] Session Establishment started for IMSI: 310175028310, APN: ims, QOS: Medium
-[2025-02-14 13:44:00] [UDM] Handover triggered from Cell ID: 1001 to Cell ID: 1003 for IMSI: 310172459709
-[2025-02-14 13:44:00] [SMF] UPF overload detected, Dropping packets for IMSI: 310171988089, Action: Temporary Block
-[2025-02-14 13:44:00] [PCF] SCTP Link Failure detected at 2025-02-14 13:44:00, Affecting AMF: AMF-671, Recovery: Restart AMF
-[2025-02-14 13:44:00] [UPF] QoS Policy update applied for IMSI: 310171183217, New QoS: Medium, Latency: 10ms
-[2025-02-14 13:44:00] [AMF] UE Deregistration Request received for IMSI: 310172720560, Cause: Normal Release
-[2025-02-14 13:44:00] [SMF] SCTP Link Failure detected at 2025-02-14 13:44:00, Affecting AMF: AMF-371, Recovery: Re-route Traffic
-[2025-02-14 13:44:00] [NSSF] Authentication Failure for IMSI: 310171068359, Reason: SIM Expired
-[2025-02-14 13:44:00] [NSSF] SCTP Link Failure detected at 2025-02-14 13:44:00, Affecting AMF: AMF-741, Recovery: Restart AMF
-[2025-02-14 13:44:00] [AMF] Session Release for IMSI: 310178702346, Cause: Normal Release, Duration: 30s
-[2025-02-14 13:44:00] [AUSF] UE Deregistration Request received for IMSI: 310177659049, Cause: Normal Release
-[2025-02-14 13:44:00] [PCF] UPF overload detected, Dropping packets for IMSI: 310171771550, Action: Temporary Block
-[2025-02-14 13:44:00] [AUSF] Authentication Failure for IMSI: 310176543229, Reason: SIM Expired
-[2025-02-14 13:44:00] [PCF] Session Release for IMSI: 310176725292, Cause: UE Power Off, Duration: 300s
-[2025-02-14 13:44:00] [AMF] SCTP Link Failure detected at 2025-02-14 13:44:00, Affecting AMF: AMF-816, Recovery: Re-route Traffic
+[2025-08-30 15:44:33] [NSSF] Handover triggered from Cell ID: 1003 to Cell ID: 1004 for IMSI: 310177922730
+[2025-08-30 15:44:33] [NSSF] Session Release for IMSI: 310175844194, Cause: Normal Release, Duration: 120s
+[2025-08-30 15:44:33] [PCF] Handover triggered from Cell ID: 1003 to Cell ID: 1003 for IMSI: 310173953003
+[2025-08-30 15:44:33] [PCF] UPF overload detected, Dropping packets for IMSI: 310177133465, Action: Temporary Block
+[2025-08-30 15:44:33] [AMF] UE Deregistration Request received for IMSI: 310177110649, Cause: Network Congestion
+[2025-08-30 15:44:33] [PCF] UE Deregistration Request received for IMSI: 310174485527, Cause: UE Power Off
+[2025-08-30 15:44:33] [AMF] SCTP Link Failure detected at 2025-08-30 15:44:33, Affecting AMF: AMF-569, Recovery: Restart AMF
+[2025-08-30 15:44:33] [PCF] SCTP Link Failure detected at 2025-08-30 15:44:33, Affecting AMF: AMF-914, Recovery: Re-route Traffic
+[2025-08-30 15:44:33] [SMF] Session Release for IMSI: 310177934718, Cause: Normal Release, Duration: 120s
+[2025-08-30 15:44:33] [NSSF] QoS Policy update applied for IMSI: 310173824150, New QoS: Medium, Latency: 100ms
+[2025-08-30 15:44:33] [AUSF] UE Registration Request received with IMSI: 310179498012, IP: 192.168.166.242, PLMN: 310-170
+[2025-08-30 15:44:33] [SMF] SCTP Link Failure detected at 2025-08-30 15:44:33, Affecting AMF: AMF-243, Recovery: Re-route Traffic
+[2025-08-30 15:44:33] [UDM] QoS Policy update applied for IMSI: 310177856521, New QoS: Low, Latency: 10ms
+[2025-08-30 15:44:33] [UPF] SCTP Link Failure detected at 2025-08-30 15:44:33, Affecting AMF: AMF-931, Recovery: Restart AMF
+[2025-08-30 15:44:33] [NSSF] UPF overload detected, Dropping packets for IMSI: 310171273093, Action: Traffic Re-route
+[2025-08-30 15:44:33] [NSSF] QoS Policy update applied for IMSI: 310179234018, New QoS: Low, Latency: 50ms
+[2025-08-30 15:44:33] [UDM] QoS Policy update applied for IMSI: 310174547396, New QoS: Low, Latency: 10ms
+[2025-08-30 15:44:33] [AMF] SCTP Link Failure detected at 2025-08-30 15:44:33, Affecting AMF: AMF-278, Recovery: Re-route Traffic
+[2025-08-30 15:44:33] [UDM] Authentication Failure for IMSI: 310179293130, Reason: Network Timeout
+[2025-08-30 15:44:33] [PCF] UE Registration Request received with IMSI: 310178728982, IP: 192.168.152.110, PLMN: 310-170
+[2025-08-30 15:44:33] [UPF] Data Flow initiated for IMSI: 310178971795, IP: 192.168.47.253, Traffic Type: Data
+[2025-08-30 15:44:33] [UDM] SCTP Link Failure detected at 2025-08-30 15:44:33, Affecting AMF: AMF-726, Recovery: Alert NOC
+[2025-08-30 15:44:33] [UPF] UE Deregistration Request received for IMSI: 310175351180, Cause: UE Power Off
+[2025-08-30 15:44:33] [AUSF] QoS Policy update applied for IMSI: 310179434651, New QoS: Medium, Latency: 100ms
+[2025-08-30 15:44:33] [AUSF] Handover triggered from Cell ID: 1001 to Cell ID: 1003 for IMSI: 310171225743
+[2025-08-30 15:44:33] [AUSF] Service Request Timeout for IMSI: 310171673155, Retries: 3, Last Attempt: 2025-08-30 15:44:33
+[2025-08-30 15:44:33] [UPF] Network Slice Selection triggered for IMSI: 310175435009, Requested Slice: eMBB, Response: Failure
+[2025-08-30 15:44:33] [UPF] QoS Policy update applied for IMSI: 310177757684, New QoS: Medium, Latency: 50ms
+[2025-08-30 15:44:33] [SMF] SCTP Link Failure detected at 2025-08-30 15:44:33, Affecting AMF: AMF-372, Recovery: Re-route Traffic
+[2025-08-30 15:44:33] [AMF] Session Release for IMSI: 310179943591, Cause: Normal Release, Duration: 60s
+[2025-08-30 15:44:33] [UPF] UE Registration Request received with IMSI: 310173688297, IP: 192.168.125.94, PLMN: 311-480
+[2025-08-30 15:44:33] [UPF] UPF overload detected, Dropping packets for IMSI: 310179814499, Action: Traffic Re-route
+[2025-08-30 15:44:33] [SMF] Handover triggered from Cell ID: 1002 to Cell ID: 1002 for IMSI: 310178560971
+[2025-08-30 15:44:33] [AUSF] Handover triggered from Cell ID: 1001 to Cell ID: 1003 for IMSI: 310178446948
+[2025-08-30 15:44:33] [AMF] Network Slice Selection triggered for IMSI: 310178585383, Requested Slice: URLLC, Response: Success
+[2025-08-30 15:44:33] [PCF] Network Slice Selection triggered for IMSI: 310176000110, Requested Slice: eMBB, Response: Success
+[2025-08-30 15:44:33] [UPF] UPF overload detected, Dropping packets for IMSI: 310175326965, Action: Temporary Block
+[2025-08-30 15:44:33] [NSSF] Data Flow initiated for IMSI: 310171013175, IP: 192.168.11.52, Traffic Type: VoLTE
+[2025-08-30 15:44:33] [SMF] QoS Policy update applied for IMSI: 310177768030, New QoS: High, Latency: 20ms
+[2025-08-30 15:44:33] [UDM] Network Slice Selection triggered for IMSI: 310179965884, Requested Slice: eMBB, Response: Failure
+[2025-08-30 15:44:33] [AMF] Authentication Failure for IMSI: 310172462101, Reason: Wrong Credentials
+[2025-08-30 15:44:33] [AUSF] Service Request Timeout for IMSI: 310176525525, Retries: 1, Last Attempt: 2025-08-30 15:44:33
+[2025-08-30 15:44:33] [AMF] UE Deregistration Request received for IMSI: 310173784050, Cause: UE Power Off
+[2025-08-30 15:44:33] [AUSF] Data Flow initiated for IMSI: 310177273268, IP: 192.168.198.250, Traffic Type: VoLTE
+[2025-08-30 15:44:33] [UPF] Authentication Failure for IMSI: 310176127498, Reason: Network Timeout
+[2025-08-30 15:44:33] [PCF] UPF overload detected, Dropping packets for IMSI: 310172474639, Action: Rate Limit Applied
+[2025-08-30 15:44:33] [SMF] Handover triggered from Cell ID: 1001 to Cell ID: 1002 for IMSI: 310177114759
+[2025-08-30 15:44:33] [AUSF] Session Release for IMSI: 310173566125, Cause: Normal Release, Duration: 60s
+[2025-08-30 15:44:33] [SMF] Data Flow initiated for IMSI: 310174299078, IP: 192.168.55.64, Traffic Type: VoLTE
+[2025-08-30 15:44:33] [NSSF] Authentication Failure for IMSI: 310176495400, Reason: SIM Expired
+[2025-08-30 15:44:33] [NSSF] Authentication Failure for IMSI: 310175627289, Reason: Wrong Credentials
+[2025-08-30 15:44:33] [AMF] UE Deregistration Request received for IMSI: 310179273402, Cause: UE Power Off
+[2025-08-30 15:44:33] [AUSF] SCTP Link Failure detected at 2025-08-30 15:44:33, Affecting AMF: AMF-667, Recovery: Restart AMF
+[2025-08-30 15:44:33] [UDM] Network Slice Selection triggered for IMSI: 310174819740, Requested Slice: eMBB, Response: Success
+[2025-08-30 15:44:33] [UPF] UE Registration Request received with IMSI: 310176396856, IP: 192.168.104.202, PLMN: 310-170
+[2025-08-30 15:44:33] [AUSF] Session Release for IMSI: 310176138063, Cause: Normal Release, Duration: 120s
+[2025-08-30 15:44:33] [UDM] UE Deregistration Request received for IMSI: 310177855324, Cause: Network Congestion
+[2025-08-30 15:44:33] [UDM] Network Slice Selection triggered for IMSI: 310174640969, Requested Slice: URLLC, Response: Failure
+[2025-08-30 15:44:33] [PCF] UE Registration Request received with IMSI: 310178259714, IP: 192.168.247.147, PLMN: 404-45
+[2025-08-30 15:44:33] [UPF] UE Registration Request received with IMSI: 310178100499, IP: 192.168.64.151, PLMN: 311-480
+[2025-08-30 15:44:33] [AUSF] UPF overload detected, Dropping packets for IMSI: 310174139393, Action: Temporary Block
+[2025-08-30 15:44:33] [AUSF] UPF overload detected, Dropping packets for IMSI: 310176869413, Action: Traffic Re-route
+[2025-08-30 15:44:33] [AMF] Data Flow initiated for IMSI: 310171822257, IP: 192.168.125.108, Traffic Type: Streaming
+[2025-08-30 15:44:33] [SMF] Network Slice Selection triggered for IMSI: 310174843411, Requested Slice: mMTC, Response: Success
+[2025-08-30 15:44:33] [AMF] UPF overload detected, Dropping packets for IMSI: 310172676638, Action: Rate Limit Applied
+[2025-08-30 15:44:33] [NSSF] Network Slice Selection triggered for IMSI: 310174481182, Requested Slice: mMTC, Response: Success
+[2025-08-30 15:44:33] [UDM] Session Release for IMSI: 310172994082, Cause: UE Power Off, Duration: 60s
+[2025-08-30 15:44:33] [AMF] UE Deregistration Request received for IMSI: 310172045918, Cause: UE Power Off
+[2025-08-30 15:44:33] [AUSF] Session Release for IMSI: 310174293225, Cause: Network Congestion, Duration: 120s
+[2025-08-30 15:44:33] [SMF] Session Establishment started for IMSI: 310179453009, APN: enterprise, QOS: High
+[2025-08-30 15:44:33] [UPF] Service Request Timeout for IMSI: 310179436857, Retries: 2, Last Attempt: 2025-08-30 15:44:33
+[2025-08-30 15:44:33] [SMF] UE Deregistration Request received for IMSI: 310172591384, Cause: Normal Release
+[2025-08-30 15:44:33] [UDM] UE Deregistration Request received for IMSI: 310172516853, Cause: Network Congestion
+[2025-08-30 15:44:33] [AUSF] SCTP Link Failure detected at 2025-08-30 15:44:33, Affecting AMF: AMF-138, Recovery: Alert NOC
+[2025-08-30 15:44:33] [AMF] Network Slice Selection triggered for IMSI: 310172754901, Requested Slice: mMTC, Response: Success
+[2025-08-30 15:44:33] [NSSF] UE Deregistration Request received for IMSI: 310176563188, Cause: UE Power Off
+[2025-08-30 15:44:33] [SMF] Data Flow initiated for IMSI: 310176215394, IP: 192.168.199.121, Traffic Type: Streaming
+[2025-08-30 15:44:33] [NSSF] Handover triggered from Cell ID: 1003 to Cell ID: 1001 for IMSI: 310178152118
+[2025-08-30 15:44:33] [UDM] UE Deregistration Request received for IMSI: 310179180419, Cause: Network Congestion
+[2025-08-30 15:44:33] [PCF] Session Establishment started for IMSI: 310176886826, APN: internet, QOS: Low
+[2025-08-30 15:44:33] [NSSF] UE Deregistration Request received for IMSI: 310179066536, Cause: UE Power Off
+[2025-08-30 15:44:33] [UDM] QoS Policy update applied for IMSI: 310177868036, New QoS: Medium, Latency: 100ms
+[2025-08-30 15:44:33] [AUSF] UE Deregistration Request received for IMSI: 310171976554, Cause: UE Power Off
+[2025-08-30 15:44:33] [UPF] SCTP Link Failure detected at 2025-08-30 15:44:33, Affecting AMF: AMF-451, Recovery: Alert NOC
+[2025-08-30 15:44:33] [SMF] QoS Policy update applied for IMSI: 310175533161, New QoS: High, Latency: 20ms
+[2025-08-30 15:44:33] [UPF] Network Slice Selection triggered for IMSI: 310174349776, Requested Slice: eMBB, Response: Success
+[2025-08-30 15:44:33] [NSSF] Network Slice Selection triggered for IMSI: 310178229750, Requested Slice: mMTC, Response: Failure
+[2025-08-30 15:44:33] [NSSF] SCTP Link Failure detected at 2025-08-30 15:44:33, Affecting AMF: AMF-907, Recovery: Restart AMF
+[2025-08-30 15:44:33] [AMF] Session Release for IMSI: 310177387760, Cause: Normal Release, Duration: 300s
+[2025-08-30 15:44:33] [NSSF] UE Registration Request received with IMSI: 310179299026, IP: 192.168.157.39, PLMN: 310-170
+[2025-08-30 15:44:33] [AMF] SCTP Link Failure detected at 2025-08-30 15:44:33, Affecting AMF: AMF-817, Recovery: Re-route Traffic
+[2025-08-30 15:44:33] [AMF] Data Flow initiated for IMSI: 310176039926, IP: 192.168.220.41, Traffic Type: Data
+[2025-08-30 15:44:33] [UDM] QoS Policy update applied for IMSI: 310174968526, New QoS: Low, Latency: 100ms
+[2025-08-30 15:44:33] [AUSF] UE Deregistration Request received for IMSI: 310172672609, Cause: Network Congestion
+[2025-08-30 15:44:33] [PCF] UE Registration Request received with IMSI: 310174241958, IP: 192.168.0.120, PLMN: 311-480
+[2025-08-30 15:44:33] [PCF] Service Request Timeout for IMSI: 310179597297, Retries: 1, Last Attempt: 2025-08-30 15:44:33
+[2025-08-30 15:44:33] [AUSF] UE Registration Request received with IMSI: 310172059429, IP: 192.168.38.18, PLMN: 311-480
+[2025-08-30 15:44:33] [UDM] Session Release for IMSI: 310172688211, Cause: Normal Release, Duration: 30s
+[2025-08-30 15:44:33] [AUSF] UE Registration Request received with IMSI: 310177657980, IP: 192.168.129.228, PLMN: 404-45
+[2025-08-30 15:44:33] [AUSF] UE Registration Request received with IMSI: 310175316846, IP: 192.168.99.138, PLMN: 311-480

@@ -40,5 +40,5 @@ def summarize_logs():
      
 
 if __name__ == "__main__":
-    classify_logs()
-    #summarize_logs()
+    #classify_logs()
+    summarize_logs()
