@@ -20,11 +20,11 @@ Architecture (Mermaid Diagram)
 
 ```mermaid
 flowchart TD
-    A[Raw Telecom Logs] --> B[Log Parser]
-    B --> C[Zero-Shot Classifier (BART-MNLI)]
-    B --> D[Summarizer (BART-CNN)]
-    C --> E[Output: Categories]
-    D --> E[Output: Summary]
+    A["Raw Telecom Logs"] --> B["Log Parser"]
+    B --> C["Zero-Shot Classifier (BART-MNLI)"]
+    B --> D["Summarizer (BART-CNN)"]
+    C --> E["Output: Categories"]
+    D --> E["Output: Summary"]
 ```
 
 
