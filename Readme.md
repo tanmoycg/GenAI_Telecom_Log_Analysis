@@ -28,21 +28,13 @@ flowchart TD
 ```
 
 
-Requirements
+**Requirements**
+- Python 3.11 (baseline tested)
+- Hugging Face Transformers
+- PyTorch
+- Install all dependencies: `pip install -r requirements.txt`
 
-Python 3.11 (baseline tested)
-
-Hugging Face Transformers
-
-PyTorch
-
-Install all dependencies:
-pip install -r requirements.txt
-
-Next Steps
-
-Add plain-English explanations of logs.
-
-Extend for multi-vendor 5G logs.
-
-Build FastAPI/Streamlit front-end.
+**Next Steps**
+- Add plain-English explanations of logs
+- Extend for multi-vendor 5G logs
+- Build FastAPI/Streamlit front-end
